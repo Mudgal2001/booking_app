@@ -4,7 +4,7 @@ import Navbar from '../../components/navbar/Navbar'
 
 const List = () => {
   return (
-    <div><Navbar/><Header/></div>
+    <div><Navbar/><Header type="list"/></div>
   )
 }
 
